@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.adc2767f.css",
+    "main.js": "/Portfolio/static/js/main.f1f2d32e.js",
+    "static/media/example.pdf": "/Portfolio/static/media/example.61eff0b0ca8b83ca9d67.pdf",
+    "static/media/sports.png": "/Portfolio/static/media/sports.678041c0a8c1c94d4806.png",
+    "static/media/farmer.png": "/Portfolio/static/media/farmer.d1483999c3a175552434.png",
+    "static/media/react.png": "/Portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/coding.png": "/Portfolio/static/media/coding.169682d0f9321aad8bf2.png",
+    "static/media/database.png": "/Portfolio/static/media/database.96af83e68e3b32fb2dd7.png",
+    "static/media/java.png": "/Portfolio/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/node-js.png": "/Portfolio/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/bank.png": "/Portfolio/static/media/bank.8fe7b18c64614c7e7bc7.png",
+    "static/media/visual-studio.png": "/Portfolio/static/media/visual-studio.ce637e60ea8d930e6547.png",
+    "static/media/house.png": "/Portfolio/static/media/house.5c97c300db8c26b007a2.png",
+    "static/media/picture.png": "/Portfolio/static/media/picture.af67b7cc42546dbe9d5c.png",
+    "static/media/github.png": "/Portfolio/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/finallogo.png": "/Portfolio/static/media/finallogo.36c321394622e5f7b4f1.png",
+    "index.html": "/Portfolio/index.html",
+    "main.adc2767f.css.map": "/Portfolio/static/css/main.adc2767f.css.map",
+    "main.f1f2d32e.js.map": "/Portfolio/static/js/main.f1f2d32e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc2767f.css",
+    "static/js/main.f1f2d32e.js"
+  ]
+}
